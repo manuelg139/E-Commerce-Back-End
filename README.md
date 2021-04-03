@@ -11,15 +11,17 @@ As a person in a postiion of leadership in your company, this app will allow you
 ## Table of Contents
 
 - Installation
+- Link
 - Usage
-- License
+- Media
+- Dependencies
 - Contributors
 - Questions
 - Tests
 
 ## Installation
 
-- Open my Github Page and clone my repo called E-Commerce-Back-End into your local enviroment (Make sure to add a NODE .gitignore ).
+- Open my Link to the REPO Page and clone E-Commerce-Back-End into your local enviroment (Make sure to add a NODE .gitignore ).
 - Navigate to the Develop folder
 - Run 'npm i' on your command line to install dependencies.
 - Open your MYSQL Workbench and run the 'schema.sql' documentation on a new 'SQL File'
@@ -27,10 +29,16 @@ As a person in a postiion of leadership in your company, this app will allow you
 - Create a new file and title it .env copy and paste the content from .env.EXAMPLE and update the file with your personal MYSQL Workbench information (User and Password)
 - Seed the seed files into your Workbench by running the line (npm run seed) on the command line
 
+## Link to the Repo
+https://github.com/manuelg139/E-Commerce-Back-End
+
+
 ## Usage
 
 - After installation kick off the program by runing 'npm start' or 'node server.js' in the termial at a Develop folder level.
 - Open your 'Insomnia' program
+
+
 
 ![Screen Shot 2021-04-02 at 10 33 32 PM](https://user-images.githubusercontent.com/75399668/113466804-236c1d00-9404-11eb-8fad-2fcbb9b46fa1.png)
 ### Use the GET method to see the data for the following
