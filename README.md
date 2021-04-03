@@ -62,7 +62,7 @@ As a person in a postiion of leadership in your company, this app will allow you
 
 ## Media
 ![Screen Shot 2021-04-02 at 10 37 53 PM](https://user-images.githubusercontent.com/75399668/113466799-22d38680-9404-11eb-9a04-73bca91f5190.png)
-- Video Link (https://drive.google.com/file/d/1Ob5YJlu_9XdpFr0DKs3npWsZQJxp0_1N/view?usp=sharing)
+- Video Link (https://drive.google.com/file/d/15F_sR7TpAD6ONO485fAXeLR4_z0EYOHw/view?usp=sharing)
 
 ## Dependencies
 
