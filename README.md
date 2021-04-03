@@ -20,7 +20,7 @@ As a person in a postiion of leadership in your company, this app will allow you
 ## Installation
 
 - Open my Github Page and clone my repo called E-Commerce-Back-End into your local enviroment (Make sure to add a NODE .gitignore ).
-- -Navigate to the Develop folder
+- Navigate to the Develop folder
 - Run 'npm i' on your command line to install dependencies.
 - Open your MYSQL Workbench and run the 'schema.sql' documentation on a new 'SQL File'
 - Look for the file .env.EXAMPLE on your root folder
