@@ -77,3 +77,9 @@ Follow me on Github manuelg139 or email me at manuelg139@gmail.com
 ## Tests
 
 N/A
+
+![Screen Shot 2021-04-02 at 10 37 53 PM](https://user-images.githubusercontent.com/75399668/113466799-22d38680-9404-11eb-9a04-73bca91f5190.png)
+![Screen Shot 2021-04-02 at 10 34 13 PM](https://user-images.githubusercontent.com/75399668/113466801-236c1d00-9404-11eb-8fc2-8131b46530fd.png)
+![Screen Shot 2021-04-02 at 10 34 01 PM](https://user-images.githubusercontent.com/75399668/113466802-236c1d00-9404-11eb-9e51-2c1497b2ddec.png)
+![Screen Shot 2021-04-02 at 10 33 46 PM](https://user-images.githubusercontent.com/75399668/113466803-236c1d00-9404-11eb-9938-9d6fd0b008e1.png)
+![Screen Shot 2021-04-02 at 10 33 32 PM](https://user-images.githubusercontent.com/75399668/113466804-236c1d00-9404-11eb-8fad-2fcbb9b46fa1.png)
